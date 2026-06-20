@@ -1,0 +1,58 @@
+﻿INSERT INTO Categories (CategoryName, CategoryStatus)
+VALUES 
+('Elektronik', 1),
+('Bilgisayar Donanımları', 1),
+('Telefon ve Aksesuar', 1),
+('Ofis Malzemeleri', 1),
+('Mobilya', 1),
+('Beyaz Eşya', 1),
+('Küçük Ev Aletleri', 1),
+('Gıda', 1),
+('İçecek', 1),
+('Temizlik Ürünleri', 1),
+('Kişisel Bakım', 1),
+('Kozmetik', 1),
+('Oyuncak', 1),
+('Spor Ürünleri', 1),
+('Otomotiv', 1),
+('Yapı Market', 1),
+('Bahçe Ürünleri', 1),
+('Pet Shop', 1),
+('Kırtasiye', 1),
+('Tekstil', 1);
+-----------------------------
+INSERT INTO Customers
+(CustomerName, CustomerSurname, CustomerCity, CustomerDistrict, CustomerBalance)
+VALUES
+('Ahmet', 'Yılmaz', 'İstanbul', 'Kadıköy', 2450.75),
+('Mehmet', 'Demir', 'Ankara', 'Çankaya', 1320.40),
+('Ayşe', 'Kaya', 'İzmir', 'Bornova', 980.00),
+('Fatma', 'Şahin', 'Bursa', 'Nilüfer', 5600.20),
+('Ali', 'Çelik', 'Antalya', 'Muratpaşa', 310.90),
+('Zeynep', 'Aydın', 'Konya', 'Selçuklu', 8700.50),
+('Hasan', 'Arslan', 'Adana', 'Seyhan', 1525.35),
+('Elif', 'Doğan', 'Gaziantep', 'Şahinbey', 4200.00),
+('Mustafa', 'Koç', 'Kayseri', 'Melikgazi', 760.45),
+('Merve', 'Kurt', 'Mersin', 'Yenişehir', 999.99),
+
+('Emre', 'Öztürk', 'Eskişehir', 'Odunpazarı', 1840.60),
+('Ceren', 'Yıldız', 'Trabzon', 'Ortahisar', 2750.00),
+('Burak', 'Polat', 'Samsun', 'Atakum', 640.15),
+('Derya', 'Güneş', 'Denizli', 'Pamukkale', 8150.75),
+('Onur', 'Tekin', 'Malatya', 'Battalgazi', 225.20),
+('Gamze', 'Erdoğan', 'Sakarya', 'Serdivan', 1780.80),
+('Kaan', 'Aksoy', 'Kocaeli', 'İzmit', 4325.10),
+('Büşra', 'Taş', 'Balıkesir', 'Altıeylül', 3500.00),
+('Tolga', 'Eren', 'Manisa', 'Yunusemre', 920.55),
+('Seda', 'Karaca', 'Aydın', 'Efeler', 6700.40),
+
+('Hüseyin', 'Bozkurt', 'Hatay', 'Antakya', 1430.00),
+('Ece', 'Kılıç', 'Muğla', 'Bodrum', 2890.65),
+('Serkan', 'Yavuz', 'Tekirdağ', 'Süleymanpaşa', 510.30),
+('Melisa', 'Özcan', 'Çanakkale', 'Merkez', 7640.25),
+('Yusuf', 'Aslan', 'Şanlıurfa', 'Haliliye', 2580.90),
+('Rabia', 'Keskin', 'Van', 'İpekyolu', 890.75),
+('Oğuz', 'Türkmen', 'Erzurum', 'Yakutiye', 1190.00),
+('Selin', 'Durmaz', 'Ordu', 'Altınordu', 3375.45),
+('İsmail', 'Kaplan', 'Kahramanmaraş', 'Onikişubat', 4620.10),
+('Tuğçe', 'Acar', 'Rize', 'Merkez', 1500.50);
