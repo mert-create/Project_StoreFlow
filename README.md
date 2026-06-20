@@ -16,4 +16,5 @@ SQL Server
 
 
 📸 Proje Görselleri
-<img width="685" height="793" alt="Ekran görüntüsü 2026-06-11 105156" src="https://github.com/user-attachments/assets/133901b6-f99c-4c6a-9bad-29207c68ae33" />
+[screencapture-localhost-7137-Dashboard-Index-2026-06-20-12_07_32.pdf](https://github.com/user-attachments/files/29159155/screencapture-localhost-7137-Dashboard-Index-2026-06-20-12_07_32.pdf)
+
